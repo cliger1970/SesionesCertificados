@@ -1,0 +1,140 @@
+[
+  {
+    "id": "ses-1794014825186",
+    "title": "Cuidando el agua en nuestra comunidad: El ciclo del agua y nuestra responsabilidad ciudadana",
+    "teacherName": "Prof. David Mendoza",
+    "grade": "3ro de Secundaria",
+    "section": "A",
+    "area": "Desarrollo Personal, Ciudadanía y Cívica",
+    "specialty": "Formación Ciudadana y Ambiental",
+    "duration": "90 minutos",
+    "date": "2026-11-07",
+    "theme": "ciclo del agua",
+    "sourceContent": "",
+    "competencies": [
+      "Convive y participa democráticamente en la búsqueda del bien común",
+      "Gestiona responsablemente el ambiente y los espacios"
+    ],
+    "capacities": [
+      "Deliberar sobre asuntos públicos",
+      "Maneja fuentes de información para comprender el espacio geográfico y el ambiente",
+      "Genera acciones para conservar el ambiente local y global"
+    ],
+    "performances": [
+      "Explica cómo el ciclo natural del agua es alterado por las actividades humanas en su comunidad y propone alternativas de solución orientadas al desarrollo sostenible y al bien común."
+    ],
+    "evidence": "Infografía analítica con propuestas ciudadanas para la gestión sostenible del agua en la comunidad.",
+    "instrument": "Rúbrica de evaluación analítica",
+    "transversalCompetencies": [
+      "Se desenvuelve en los entornos virtuales generados por las TIC",
+      "Gestiona su aprendizaje de manera autónoma"
+    ],
+    "transversalCapacities": [
+      "Personaliza entornos virtuales / Interactúa en entornos virtuales",
+      "Define metas de aprendizaje / Monitores y ajusta su desempeño"
+    ],
+    "transversalApproaches": [
+      "Enfoque Ambiental: Solidaridad planetaria y equidad intergeneracional hacia la valoración del agua.",
+      "Enfoque de Derechos: Conciencia de derechos y deberes ciudadanos frente a los servicios básicos y recursos naturales."
+    ],
+    "sequence": {
+      "inicio": {
+        "motivation": "Se proyecta un video corto de 2 minutos sobre la escasez de agua en algunas regiones del Perú y el impacto del cambio climático en los glaciares andinos.",
+        "priorKnowledge": "¿Cuáles son las etapas principales del ciclo del agua que aprendimos en años anteriores? ¿Cómo llega el agua a nuestros hogares?",
+        "cognitiveConflict": "Si el agua es un recurso renovable mediante su ciclo natural, ¿por qué cada vez hay más escasez y problemas de acceso al agua potable en nuestra sociedad?",
+        "purpose": "Analizar el ciclo del agua desde una perspectiva ecológica y ciudadana, identificando cómo nuestras acciones impactan en él y proponiendo medidas de conservación.",
+        "timeMinutes": 15
+      },
+      "desarrollo": {
+        "methodology": "Enfoque por indagación y aprendizaje basado en problemas (ABP)",
+        "activities": [
+          "Paso 1: Planteamiento de la situación o análisis de información sobre la alteración del ciclo hidrológico por la contaminación y el cambio climático.",
+          "Paso 2: Trabajo colaborativo en equipos para analizar mapas conceptuales e infografías sobre las fases del ciclo del agua y su relación con las cuencas hidrográficas.",
+          "Paso 3: Construcción guiada del conocimiento y acompañamiento docente en la elaboración de la infografía crítica.",
+          "Paso 4: Presentación o socialización de los hallazgos y contraste de propuestas ciudadanas entre equipos."
+        ],
+        "timeMinutes": 60
+      },
+      "cierre": {
+        "metacognition": "¿Qué aprendimos hoy sobre el ciclo del agua y la ciudadanía? ¿Cómo lo relacionamos con nuestra realidad local? ¿Qué dificultades tuvimos y cómo las superamos?",
+        "evaluationSummary": "Síntesis del docente destacando la importancia del agua como derecho fundamental y bien común, reforzando la retroalimentación formativa.",
+        "timeMinutes": 15
+      }
+    },
+    "rubric": [
+      {
+        "criteria": "Comprensión del ciclo del agua y su relación con la actividad humana",
+        "levels": {
+          "destacado": "Nivel AD (Destacado): Explica con precisión científica y crítica cómo las actividades humanas alteran cada fase del ciclo del agua y su impacto en la cuenca.",
+          "logrado": "Nivel A (Logrado): Explica adecuadamente las fases del ciclo del agua y reconoce la intervención humana en el mismo.",
+          "enProceso": "Nivel B (En Proceso): Describe superficialmente el ciclo del agua sin conectar claramente las acciones humanas con su alteración.",
+          "enInicio": "Nivel C (En Inicio): Presenta confusiones conceptuales sobre el ciclo del agua y no identifica la relación con la actividad humana."
+        }
+      },
+      {
+        "criteria": "Propuesta de acciones para el bien común y la conservación ambiental",
+        "levels": {
+          "destacado": "Nivel AD (Destacado): Formula propuestas ciudadanas viables, creativas y fundamentadas en el bien común para la gestión sostenible del agua.",
+          "logrado": "Nivel A (Logrado): Propone medidas pertinentes y orientadas a la conservación del agua en su entorno cercano.",
+          "enProceso": "Nivel B (En Proceso): Plantea sugerencias generales o poco viables para el cuidado del agua.",
+          "enInicio": "Nivel C (En Inicio): No presenta propuestas o estas carecen de relación con el problema ambiental abordado."
+        }
+      }
+    ],
+    "assessment": {
+      "instructions": "Lee atentamente cada una de las siguientes preguntas y responde según lo trabajado en clase.",
+      "questions": [
+        {
+          "id": "q1",
+          "type": "multiple_choice",
+          "question": "¿Cuál es el proceso del ciclo del agua en el cual el vapor de agua se enfría y se transforma en pequeñas gotas para formar nubes?",
+          "options": [
+            "A) Evaporación",
+            "B) Condensación",
+            "C) Precipitación",
+            "D) Infiltración"
+          ],
+          "correctAnswer": "B) Condensación",
+          "explanation": "La condensación ocurre cuando el vapor de agua asciende, se enfría y pasa de estado gaseoso a líquido, formando las nubes.",
+          "points": 5
+        },
+        {
+          "id": "q2",
+          "type": "multiple_choice",
+          "question": "¿De qué manera la deforestación masiva en las cuencas altas afecta directamente al ciclo del agua?",
+          "options": [
+            "A) Aumenta inmediatamente las reservas subterráneas de agua.",
+            "B) Incrementa la evaporación y frena la condensación en la atmósfera.",
+            "C) Reduce la infiltración del agua en el suelo y genera mayores riesgos de huaicos y escasez.",
+            "D) No tiene ningún impacto significativo en el ciclo hidrológico."
+          ],
+          "correctAnswer": "C) Reduce la infiltración del agua en el suelo y genera mayores riesgos de huaicos y escasez.",
+          "explanation": "La falta de cobertura vegetal impide que el agua penetre adecuadamente en los suelos, alterando el flujo natural y la recarga de acuíferos.",
+          "points": 5
+        },
+        {
+          "id": "q3",
+          "type": "true_false",
+          "question": "El ciclo del agua es un sistema cerrado donde la cantidad total de agua en el planeta permanece constante, pero su disponibilidad para el consumo humano puede verse amenazada.",
+          "options": [
+            "Verdadero",
+            "Falso"
+          ],
+          "correctAnswer": "Verdadero",
+          "explanation": "El agua en la Tierra es un recurso finito que se recicla constantemente, pero la contaminación y el mal uso reducen el porcentaje disponible como agua potable.",
+          "points": 5
+        },
+        {
+          "id": "q4",
+          "type": "short_answer",
+          "question": "Menciona una acción ciudadana concreta que podrías implementar en tu hogar y comunidad para contribuir a la conservación del agua en el marco del ciclo hidrológico.",
+          "correctAnswer": "Uso eficiente del agua, reparación de fugas, captación de agua de lluvia o campañas de concientización.",
+          "explanation": "Se evalúa que el estudiante proponga una solución práctica, realista y orientada al bien común.",
+          "points": 5
+        }
+      ]
+    },
+    "createdAt": "2026-11-07T01:27:05.186Z",
+    "updatedAt": "2026-11-07T01:27:05.189Z"
+  }
+]
